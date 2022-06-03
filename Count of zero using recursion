@@ -1,0 +1,24 @@
+// count of zeros
+public class Main
+{
+	public static void main(String[] args) {
+	int n = 20140005;
+	System.out.print(count(n));
+	}
+	public static int count(int n){
+	    return healper(n, 0);
+	    
+	}
+	private static int healper(int n, int c){
+	    if(n==0){
+	        return c;
+	    }
+	    int r = n%10;
+	    if(r==0){
+	       return healper( n/10, c+1);
+	    }
+	    else{
+	        return healper(n/10,c);
+	    }
+	}
+}
