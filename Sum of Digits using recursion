@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int n = 4520;
+		System.out.print(sumOfDigits(n));
+	}
+	public static int sumOfDigits(int n){
+	   if(n==0){
+	       return 0;
+	   }
+	   int r = n%10;
+	   return r+ sumOfDigits(n/10);
+	}
+}
