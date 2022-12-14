@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav Sinha</h1>
 <h3 align="center">A passionate FullStack Devloper from India</h3>
 
+<!-- <img src="http://127.0.0.1:5500/img/ttt.png](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" /> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsinha18&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsinha18" /> </p>
 
 
@@ -31,7 +33,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavsinha18" alt="abhinavsinha18" /></a> </p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavsinha18&show_icons=true&locale=en&layout=compact" alt="abhinavsinha18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavsinha18&show_icons=true&locale=en" alt="abhinavsinha18" /></p>
