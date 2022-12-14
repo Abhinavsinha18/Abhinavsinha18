@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Sinha</h1>
 <h3 align="center">A passionate FullStack Devloper from India</h3>
 
-<!-- <img src="http://127.0.0.1:5500/img/ttt.png](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" /> -->
+<img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsinha18&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsinha18" /> </p>
 
