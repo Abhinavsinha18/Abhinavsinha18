@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate for **Projects**
 
-- 👨‍💻 All of my projects are available at [https://abhinavsinha.netlify.app/](https://abhinavsinha.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhinavsinha.netlify.app/)
 
-- 📝 I regularly write articles on [https://codegamer.link/](https://codegamer.link/)
+- 📝 I regularly write articles on [My Web](https://codegamer.link/)
 
 - 📫 How to reach me **abhinavraj350@gmail.com**
 
